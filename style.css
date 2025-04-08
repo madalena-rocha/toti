@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #dddddd;
+  color: white;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+header {
+  background-color: #3d265e;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin: 15px;
+}
+
+.content {
+  display: flex;
+  width: 80%;
+  margin: 20px auto;
+}
