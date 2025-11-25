@@ -152,11 +152,6 @@ main {
   border-style: dashed;
 }
 
-.bio,
-.experience,
-.education {
-}
-
 .bio h2,
 .experience h2,
 .education h2 {
@@ -181,3 +176,4 @@ footer {
     text-align: center;
   }
 }
+
